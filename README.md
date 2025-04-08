@@ -9,13 +9,13 @@ Este proyecto explora y analiza datos climáticos históricos del conjunto de da
 
 - [📂 Estructura del proyecto](#estructura-del-proyecto)
 - [🎯 Propósito](#-propósito)
-- [📦 Conjunto de Datos](#conjunto-de-datos)
-- [🧪 Pasos del Proyecto](#pasos-del-proyecto)
-- [🛠️ Tecnologías](#tecnologías)
-- [⚙️ Instalación](#instalación)
-- [🚀 Uso](#uso)
-- [📈 Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [👤 Autores](#autores)
+- [📦 Conjunto de Datos](#-conjunto-de-datos)
+- [🧪 Pasos del Proyecto](#-pasos-del-proyecto)
+- [🛠️ Tecnologías](#-tecnologías)
+- [⚙️ Instalación](#-instalación)
+- [🚀 Uso](#-uso)
+- [📈 Conclusiones y Recomendaciones](#-conclusiones-y-recomendaciones)
+- [👤 Autores](#-autores)
 
 ---
 ## 📂Estructura del proyecto
