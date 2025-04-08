@@ -15,7 +15,8 @@ Este proyecto explora y analiza datos climáticos históricos del conjunto de da
 - [⚙️ Instalación](#-instalación)
 - [🚀 Uso](#-uso)
 - [📈 Conclusiones y Recomendaciones](#-conclusiones-y-recomendaciones)
-- [👤 Autores](#-autores)
+- [👤 Autor](#-autor)
+- [📝 Licencia](#-licencia)
 
 ---
 ## 📂Estructura del proyecto
