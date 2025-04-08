@@ -1,5 +1,5 @@
 # 🌍 Análisis del Clima Global con Datos del NOAA
-# [Limpieza de Datos del Clima Mundial (Enfoque en Limpieza + Pandas)]
+# Limpieza de Datos del Clima Mundial (Enfoque en Limpieza + Pandas)
 
 Este proyecto explora y analiza datos climáticos históricos del conjunto de datos **Global Summary of the Day (GSOD)** proporcionado por el NOAA. El objetivo es identificar patrones de temperatura, precipitaciones y variaciones climáticas significativas en distintas regiones del mundo.
 
@@ -84,7 +84,7 @@ Fuente: [Nombre de la fuente o “datos simulados/ficticios”].
 
 ### 1. Clonar este repositorio:
 ```bash
-git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+git clone https://github.com/SaitoM17/analisis_del_clima_mundial_NOAA.git
 ```
 ### 2. Uso de un Entorno Virtual para Aislar Dependencias
 
@@ -118,6 +118,11 @@ python -m venv venv
     ```
     pip install numpy pandas matplotlib seaborn scikit-learn
     ```
+---
+
+## 🚀 Uso
+Por definir
+
 ---
 
 ## 📈 Conclusiones y Recomendaciones
