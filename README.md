@@ -8,7 +8,7 @@ Este proyecto explora y analiza datos climáticos históricos del conjunto de da
 ## 📚 Tabla de Contenidos
 
 - [📂 Estructura del proyecto](#estructura-del-proyecto)
-- [🎯 Propósito](#propósito)
+- [🎯 Propósito](#-propósito)
 - [📦 Conjunto de Datos](#conjunto-de-datos)
 - [🧪 Pasos del Proyecto](#pasos-del-proyecto)
 - [🛠️ Tecnologías](#tecnologías)
