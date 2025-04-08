@@ -21,7 +21,7 @@ Este proyecto explora y analiza datos climáticos históricos del conjunto de da
 ---
 ## 📂Estructura del proyecto
 ```
-📂 MiProyectoAnalisisDatos/
+📂 analisis_del_clima_mundial_NOAA/
 │── 📂 data/           
 │   ├── 📂 raw/         # Datos originales sin modificar
 │   └── 📂 processed/   # Datos limpios/listos para análisis
