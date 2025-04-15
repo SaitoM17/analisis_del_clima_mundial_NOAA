@@ -13,8 +13,6 @@ Este proyecto se centra en la limpieza, exploración y visualización de datos m
 - [🧪 Pasos del Proyecto](#-pasos-del-proyecto)
 - [🛠️ Tecnologías](#-tecnologías)
 - [⚙️ Instalación](#-instalación)
-- [🚀 Uso](#-uso)
-- [📈 Conclusiones y Recomendaciones](#-conclusiones-y-recomendaciones)
 - [👤 Autor](#-autor)
 - [📝 Licencia](#-licencia)
 
@@ -87,11 +85,19 @@ Fuente: [Global Summary of the Day (GSOD)](https://www.ncei.noaa.gov/data/global
 
 ## 🧪 Pasos del Proyecto
 
-1. **Importación y limpieza de datos.**
-2. **Análisis exploratorio con visualizaciones.**
-3. **Aplicación de estadística descriptiva e inferencial.**
-4. **Conclusiones y hallazgos clave.**
-
+1. **Análisis Exploratorio de Datos**
+Se realizó el primer Análisis Exploratorio de Datos (EDA), con el objetivo de comprender a fondo el conjunto de datos, durante este proceso implico una inmersión en los datos para descubrir patrones, identificar datos duplicados, valores faltantes, identificar anomalías, y formular hipótesis preliminares, la realización de este proceso nos dio una base sólida para las etapas posteriores del análisis.
+2. **Importación y limpieza de datos.**
+Durante esta fase nos centramos en preparar el conjunto de datos para el análisis, Se importaron los datos desde su origen y se aplicaron técnicas de limpieza para garantizar la calidad y la consistencia de los datos, al finalizar se determino crear dos conjuntos de datos uno con outliers y otro sin outliers para realizar una análisis de compración y determinar que tanta influencia tiene los outliers.
+3. **Análisis exploratorio con visualizaciones.**
+Se utilizaron técnicas de visualización para explorar y comprender las relaciones entre las variables climáticas, los gráficos permitieron identificar patrones, tendencias y posibles correlaciones de manera visual, al finalizar se opto por continuar el análisis con el conjunto de datos sin outliers ya que no se logro encontrar más información sobre el clima de la estación TROLL A.
+3. **Aplicación de estadística.**
+Se aplicaron métodos estadísticos para probar hipótesis y validar las observaciones realizadas durante el AED y la visualización, se utilizaron pruebas de hipótesis y análisis de correlación para obtener resultados cuantitativos y significativos.
+4. **Hallazgos claves.**
+* Se resumen los descubrimientos más importantes del análisis.
+* Se destacan los patrones, las correlaciones y las variaciones que tienen implicaciones significativas para la comprensión del clima en la plataforma Troll A.
+5. **Conclución**
+El análisis estadístico reveló que la mayoría de las variables climáticas en Troll A no siguen una distribución normal. Se identificaron diferencias significativas en la visibilidad entre meses, lo que sugiere la presencia de patrones climáticos estacionales.
 ---
 
 ## 🛠️ Tecnologías
@@ -100,8 +106,7 @@ Fuente: [Global Summary of the Day (GSOD)](https://www.ncei.noaa.gov/data/global
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook / Google Colab
-- [Otras herramientas que uses, como Scikit-learn, Plotly, etc.]
+- Jupyter Notebook
 
 ---
 
@@ -143,19 +148,6 @@ python -m venv venv
     ```
     pip install numpy pandas matplotlib seaborn scikit-learn
     ```
----
-
-## 🚀 Uso
-Por definir
-
----
-
-## 📈 Conclusiones y Recomendaciones
-
-- [Insight 1]
-- [Insight 2]
-- [Recomendación práctica o estratégica basada en los datos]
-
 ---
 
 ## 👤 Autor
